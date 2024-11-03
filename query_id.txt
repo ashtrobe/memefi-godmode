@@ -1,0 +1,1 @@
+query_id=AAGprzlXAgAAAKmvOVdLl0rM&user=%7B%22id%22%3A5758365609%2C%22first_name%22%3A%22Sagidul%22%2C%22last_name%22%3A%22Islam%F0%9F%A6%B4%22%2C%22username%22%3A%22Sagidulislam1%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730625141&hash=0cf65bd9812e07f0b1a310aa591f462c38d8c1ff2e188debf2a2c833425bc27a
